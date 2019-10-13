@@ -1,0 +1,91 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:3:7-47
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:5:7-32
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:4:7-30
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:7:5-31:19
+	android:label
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:7:48-80
+	android:icon
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:7:18-47
+activity#com.coreservlets.intentfilter1.IntentFilter1Activity
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:8:9-14:20
+	android:label
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:9:19-51
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:8:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:12:17-77
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:12:27-74
+activity#com.coreservlets.intentfilter1.LoanCalculatorActivity
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:15:9-22:20
+	android:label
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:16:19-67
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:15:19-57
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:host:coreservlets.com+data:scheme:loan
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.VIEW
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:19:27-73
+data
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:20:17-79
+	android:host
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:20:45-76
+	android:scheme
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:20:23-44
+activity#com.coreservlets.intentfilter1.TabbedActivity
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:23:9-30:20
+	android:screenOrientation
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:25:19-55
+	android:label
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:24:19-56
+	android:name
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:23:19-49
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml:26:13-29:29
+uses-sdk
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tuyento/AndroidStudioProjects/IntentFilter1/app/src/main/AndroidManifest.xml
